@@ -1,15 +1,35 @@
 ---
 layout: page
-title: About me
-subtitle: I am PhD scholar at King's College London
+title: Experiences
 ---
 
-My name is Pushkal Agarwal. I have the following qualities:
+### INDUSTRIAL EXPERIENCES (#industry)
+- Sep 2018- Dec 2018 :	Telefonica I+D	Graduate Internship	Barcelona, Spain
+- July 2017- Aug 2017:	Nielsen (India) Pvt. Ltd	Executive, Data Analytics	Hyderabad, India
+- Jan 2017- June 2017:	Nielsen (India) Pvt. Ltd	Semester Long Internship	Vadodara, India
+- May 2016- July 2016:	Nielsen (India) Pvt. Ltd	Summer Internship	Chennai, India
 
-- Data science enthusiast.
-- Learn from the data
+### Workshops
+* “Monitoring online violence against high profile individuals”		16-21 Apirl’18
+A week long “Data Study Group” project challenge at Alan Turing Institute (London) with Accenture’s Alliance. This project’s challenge and data was proposed by Amnesty International.
+### Skills
+-	Specializations      : Web Analytics in Digital Citizen Engagement.
+-	Language Platform    : R, Python, Java, C, C++.
+-	Data Analytics Tools : Shiny Dashboards (RStudio), OpenWPM (Princeton University), Botometer (Indiana university), Spotfire (Tibco), IBM SPSS, IBM Cognos.
+-	Web Technologies     : Amazon Web Services, Bootstrap, HTML, PHP, XML.
+-	Other Tools          : Shell scripting, LaTeX, Matlab, GIT, Picasa, Putty (HPC), JSOM(Maps).
+-	Collaboratives       : HackMD, Asana, DokuWiki.
 
-What else do you need?
+### Responsibilities
 
-### Short-bio
-
+- Event Volunteer
+*	ACM SIGKDD2018 (London, UK), AAAI ICWSM 2018 (Palo Alto, USA),  ACM IMC 2017 (London, UK)
+*	Conf.Kde 2016 conference at LNMIIT, India
+- Chairperson, Student Chapter 2015-16 of Computer Society of India in LNMIIT   	LNMIIT, Jaipur                
+*	Worked as the Chairperson and managed a student council of 33 students with 176 CSI registered students.
+*	Organised various Project Presentation events, Quiz competitions, townhall and workshops (Cloud Computing, python) during the tenure.
+- Project Team Lead                              		  					LNMIIT, Jaipur                	
+*	“N-Queen Game: GUI and Solution Finding Using Java.”              (4 Members, CSI-LNMIIT Winter Project -2015)
+*	“Plagiarism Checker of C Codes as Well As Text Documents.”     (4 Members, CSI-LNMIIT Summer Project -2015)
+- Student Mentor, Counselling Cell’14                               					LNMIIT, Jaipur
+* Vice President, Gandhi Club’12 								DPS-RK Puram, Delhi

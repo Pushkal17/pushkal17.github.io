@@ -22,4 +22,5 @@ A week long “Data Study Group” project challenge at Alan Turing Institute (L
 
 ### Responsibilities
 
+- Conferencec Volunteer: ACM SIGKDD2018 (London, UK), AAAI ICWSM 2018 (Palo Alto, USA),  ACM IMC 2017 (London, UK)
 - Chairperson, Student Chapter 2015-16 of Computer Society of India in (LNMIIT, Jaipur). Managed a student council of 33 students with 176 CSI registered students.

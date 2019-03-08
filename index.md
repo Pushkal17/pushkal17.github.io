@@ -14,7 +14,7 @@ I am enrolled with the Department of [Informatics](https://www.kcl.ac.uk/nms/dep
 To know more about me check my following pages and links (please allow me to talk in my R programming language here)-
 
 library(Pushkal) #Just Kidding!
-- Academics   <- c([Education][/publications.html#opentools], Publications, Projects, Teachings, Talks)
+- Academics   <- c([Education][/publications.html], Publications, Projects, Teachings, Talks)
 - Experiences <- c(Internships, Workshops, Skills, Responsibilities)
 - Posts       <- c(Academics, Data Science, Dashboards)
 - Connect     <- c(Email, Twitter, LinkedIn)

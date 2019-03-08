@@ -18,7 +18,7 @@ library(Pushkal) #Just Kidding!
 - [Experiences](/experience.md) <- c(Internships, Workshops, Skills, Responsibilities)
 - [Posts](posts.md)                <- c(Academics, Data Science, Dashboards)
 - Connect            <- c([Email]=pushkal[dot]agarwal[at]kcl[dot]ac[dot]uk), [Twitter](https://twitter.com/pushkalagarwa), [LinkedIn](https://www.linkedin.com/in/pushkal-agarwal-71535a18/))
-- Other links                   <- c([Netsys team](https://nms.kcl.ac.uk/netsys/), [Datasets](https://nms.kcl.ac.uk/netsys/https://nms.kcl.ac.uk/netsys/datasets/))
+- Other links                   <- c([Netsys team](https://nms.kcl.ac.uk/netsys/), [Datasets](https://nms.kcl.ac.uk/netsys/))
 
 ### Recent Updates
 - Paper on "TweetingMPs" accepted for publication at ICWSM 2019 (Germany)  

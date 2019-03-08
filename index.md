@@ -14,10 +14,10 @@ I am enrolled with the Department of [Informatics](https://www.kcl.ac.uk/nms/dep
 To know more about me check my following pages and links (please allow me to talk in my R programming language here)-
 
 library(Pushkal) #Just Kidding!
-- Academics   <- c([Education](/publications.md-education), Publications, Projects, Teachings, Talks)
-- Experiences <- c(Internships, Workshops, Skills, Responsibilities)
-- Posts       <- c(Academics, Data Science, Dashboards)
-- Connect     <- c(Email, Twitter, LinkedIn)
+- [Academics](/academics.md)   <- c(Education, Publications, Projects, Teachings, Talks)
+- [Experiences](/experience.md) <- c(Internships, Workshops, Skills, Responsibilities)
+- [Posts](posts)       <- c(Academics, Data Science, Dashboards)
+- [Connect](connect)     <- c(Email, Twitter, LinkedIn)
 - Other links <- c(Netsys team, Datasets)
 
 ### Recent Updates

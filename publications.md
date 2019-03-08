@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publication
-tags : [publications]
 ---
 
 ### Education {#education}

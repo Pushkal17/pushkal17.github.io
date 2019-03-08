@@ -22,14 +22,4 @@ A week long “Data Study Group” project challenge at Alan Turing Institute (L
 
 ### Responsibilities
 
-- Event Volunteer
-*	ACM SIGKDD2018 (London, UK), AAAI ICWSM 2018 (Palo Alto, USA),  ACM IMC 2017 (London, UK)
-*	Conf.Kde 2016 conference at LNMIIT, India
-- Chairperson, Student Chapter 2015-16 of Computer Society of India in LNMIIT   	LNMIIT, Jaipur                
-*	Worked as the Chairperson and managed a student council of 33 students with 176 CSI registered students.
-*	Organised various Project Presentation events, Quiz competitions, townhall and workshops (Cloud Computing, python) during the tenure.
-- Project Team Lead                              		  					LNMIIT, Jaipur                	
-*	“N-Queen Game: GUI and Solution Finding Using Java.”              (4 Members, CSI-LNMIIT Winter Project -2015)
-*	“Plagiarism Checker of C Codes as Well As Text Documents.”     (4 Members, CSI-LNMIIT Summer Project -2015)
-- Student Mentor, Counselling Cell’14                               					LNMIIT, Jaipur
-* Vice President, Gandhi Club’12 								DPS-RK Puram, Delhi
+- Chairperson, Student Chapter 2015-16 of Computer Society of India in (LNMIIT, Jaipur). Managed a student council of 33 students with 176 CSI registered students.

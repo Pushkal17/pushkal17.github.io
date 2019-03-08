@@ -16,8 +16,8 @@ To know more about me check my following pages and links (please allow me to tal
 library(Pushkal) #Just Kidding!
 - [Academics](/academics.md)    <- c(Education, Publications, Projects, Teachings, Talks)
 - [Experiences](/experience.md) <- c(Internships, Workshops, Skills, Responsibilities)
-- [Posts](posts)                <- c(Academics, Data Science, Dashboards)
-- [Connect](connect)            <- c(Email, Twitter, LinkedIn)
+- [Posts](posts.md)                <- c(Academics, Data Science, Dashboards)
+- Connect            <- c([Email](pushkal.agarwal@kcl.ac.uk), [Twitter](https://twitter.com/pushkalagarwa), [LinkedIn](https://www.linkedin.com/in/pushkal-agarwal-71535a18/))
 - Other links                   <- c(Netsys team, Datasets)
 
 ### Recent Updates

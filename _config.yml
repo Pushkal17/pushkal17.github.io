@@ -25,10 +25,10 @@ description: Pushkal's homepage
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Projects/Publication: "projects"
-  Skills/Experience: "skills"
+  Publication: "publications"
+  Experiences: "experiences"
   Posts: "posts"
-  Connect On:
+  Connect:
     - Twitter: "https://twitter.com/pushkalagarwa"
     - LinkedIn: "https://www.linkedin.com/in/pushkal-agarwal-71535a18/"
     - University: "https://kclpure.kcl.ac.uk/portal/en/persons/pushkal-agarwal(12e50fab-565e-4426-b6b2-628fa9e2bce6).html"

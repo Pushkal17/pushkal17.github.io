@@ -14,11 +14,11 @@ I am enrolled with the Department of [Informatics](https://www.kcl.ac.uk/nms/dep
 To know more about me check my following pages and links (please allow me to talk in my R programming language here)-
 
 library(Pushkal) #Just Kidding!
-- [Academics](/academics.md)   <- c(Education, Publications, Projects, Teachings, Talks)
+- [Academics](/academics.md)    <- c(Education, Publications, Projects, Teachings, Talks)
 - [Experiences](/experience.md) <- c(Internships, Workshops, Skills, Responsibilities)
-- [Posts](posts)       <- c(Academics, Data Science, Dashboards)
-- [Connect](connect)     <- c(Email, Twitter, LinkedIn)
-- Other links <- c(Netsys team, Datasets)
+- [Posts](posts)                <- c(Academics, Data Science, Dashboards)
+- [Connect](connect)            <- c(Email, Twitter, LinkedIn)
+- Other links                   <- c(Netsys team, Datasets)
 
 ### Recent Updates
 - Paper on "TweetingMPs" accepted for publication at ICWSM 2019 (Germany)  

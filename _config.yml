@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: pushkal
+title: ~pushkal
 
 # Short description of your site
 description: Homepage
@@ -73,11 +73,11 @@ author:
 social-network-links:
   rss: true
   email: "pushkal.agarwal@kcl.acuk"
-  twitter: "https://twitter.com/pushkalagarwa"
+  twitter: "pushkalagarwa"
   
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: "https://www.linkedin.com/in/pushkal-agarwal-71535a18/"
+  linkedin: "pushkal-agarwal-71535a18"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

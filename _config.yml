@@ -24,7 +24,7 @@ description: Homepage
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Publications: "publications"
+  Academics: "academics"
   Experiences: "experiences"
   Posts: "posts"
   Connect:
@@ -97,7 +97,7 @@ social-network-links:
 share-links-active:
   twitter: true
 #  facebook: true
-#  google: false
+#  google: true
   linkedin: true
 
 # How to display the link to the website in the footer

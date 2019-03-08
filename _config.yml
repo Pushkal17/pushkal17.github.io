@@ -28,10 +28,11 @@ navbar-links:
   Experiences: "experiences"
   Posts: "posts"
   Connect:
-    - Twitter: "https://twitter.com/pushkalagarwa"
-    - LinkedIn: "https://www.linkedin.com/in/pushkal-agarwal-71535a18/"
+    - Twitter   : "https://twitter.com/pushkalagarwa"
+    - LinkedIn  : "https://www.linkedin.com/in/pushkal-agarwal-71535a18/"
+    - G-Scholar : "https://scholar.google.co.uk/citations?user=y3zImYMAAAAJ&hl=en"
     - University: "https://kclpure.kcl.ac.uk/portal/en/persons/pushkal-agarwal(12e50fab-565e-4426-b6b2-628fa9e2bce6).html"
-    - Blogspot: "http://pushkal17.blogspot.com/"
+    - Blogspot  : "http://pushkal17.blogspot.com/"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

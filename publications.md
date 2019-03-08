@@ -5,10 +5,10 @@ subtitle: I am PhD scholar at King's College London
 ---
 
 ### Education {education}
-- 2017-Till	Computer Science Research MPhil/PhD	Department of Informatics, King’s College London, London, UK	Exploratory
-- 2013-2017	Bachelor of Technology (Computer Science and Engineering)	The LNM Institute Of Information Technology, Jaipur, India.	8.46 (out of 10 )
-- 2013	AISSCE (XII)	Delhi Public School, RK Puram, New Delhi, India. 	92.0 %
-- 2011	AISSE (X)	Great Mission Public School, Ramnagar, India.	10 (out of 10)
+- 2017-Till:	Computer Science Research MPhil/PhD	Department of Informatics, King’s College London, London, UK	Exploratory
+- 2013-2017:	Bachelor of Technology (Computer Science and Engineering)	The LNM Institute Of Information Technology, Jaipur, India.	8.46 (out of 10 )
+- 2013	AISSCE (XII):	Delhi Public School, RK Puram, New Delhi, India. 	92.0 %
+- 2011	AISSE (X):	Great Mission Public School, Ramnagar, India.	10 (out of 10)
 
 ### Publications {publication}
 -	Pushkal Agarwal, Nishanth Sastry and Edward Wood. Digital Engagement between Citizens and Members of Parliament in the UK. Accepted paper for publication and presentation at ICWSM 2019, Munich, Germany. 

@@ -19,8 +19,8 @@ Talks
 ### Projects {project}
 
 ### Teachings {teaching}
-- Teaching Assistant                              		  					                	
-*	King’s College London, London: NDA ,Data Structure Lab (Jan’18-April’18) and Computer Systems Lab (Sep’17-Dec’17)
+Teaching Assistant                              		  					                	
+*	King’s College London, London: Network Data Analysis (Jan’19-April’19),Data Structure Lab (Jan’18-April’18) and Computer Systems Lab (Sep’17-Dec’17)
 *	LNMIIT, Jaipur: Business Analytics (July’16-Nov’16), JAVA Lab (Jan’16-April’16), Data Structure and Algorithms (July’15-Nov’15), Physics Lab (Jan’15-April’15) and C Programming Lab (July’14-Nov’14).
 
 ### Talks {talks}

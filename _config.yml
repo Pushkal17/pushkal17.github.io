@@ -24,7 +24,7 @@ description: Homepage
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Publication: "publications"
+  Publications: "publications"
   Experiences: "experiences"
   Posts: "posts"
   Connect:

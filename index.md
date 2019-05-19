@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Hey!
+title: Hello World!
 subtitle: I am Pushkal Agarwal, I learn from data.
 ---
 
-### My short-bio
-Pushkal is an MPhil/PhD Scholar on "The Professor Sir Richard Trainor Scholarship-2017" and an avid technology enthusiast. His work focuses on social media analysis in the context of digital citizen engagement. Before joining King's College London (UK), he was a Data Analyst at Nielsen (India) Pvt. Ltd. in Hyderabad, India. His honours include a Chairman’s Gold Medal for best all-round performance in graduating class of 2017 (BTech. CSE) from LNMIIT, India. He also likes to manage events, writes his experiences, poems and plays table-tennis.
+### Short-bio
+Hey there! I am Pushkal Agarwal, an MPhil/PhD Scholar on "The Professor Sir Richard Trainor Scholarship-2017" and an avid technology enthusiast. My work focuses on social media analysis in the context of digital citizen engagement. Before joining King's College London (UK), I was a data analyst at Nielsen (India) Pvt. Ltd. in Hyderabad, India. My honours include a Chairman’s Gold Medal for best all-round performance in graduating class of 2017 (BTech. CSE) from LNMIIT, India. I also like to manage events, write my experiences, poems and play table-tennis.
 
 ### Know more about me
 I am digitally engaged with my PhD project on "Citizen Engagement with the UK Parliament" under the lead supervision of [Dr. Nishanth Sastry](https://nms.kcl.ac.uk/nishanth.sastry/) (Senior Lecturer, Dept. of Informatics, KCL), second Supervisors- Dr. Andrew Blick (Senior Lecturer, Dept. of Politics and Contemporary History, KCL) and partner organization supervisor- Edward Wood (Director, House of Commons Library).
@@ -21,6 +21,12 @@ library(Pushkal) #Just Kidding!
 - Other links                   <- c([Netsys team](https://nms.kcl.ac.uk/netsys/), [Datasets](https://nms.kcl.ac.uk/netsys/))
 
 ### Recent Updates
-- Paper on "TweetingMPs" accepted for publication at ICWSM 2019 (Germany)  
-- Finished Internship with Telefonica I+D (Barcelona, Spain), Dec 2018
-- Paper (sub)reviewed- ICWSM 2019, Websci 2019.
+- April 2019: I am selected for attending "Summer School Series on Methods for Computational Social Science" in Berlin.
+
+- April 2019: I passed my MPhil to PhD viva. It is now time for the second inning of my PhD. 
+
+- Dec 2018: Finished Internship with Telefonica I+D (Barcelona, Spain), Dec 2018.
+
+- Nov 2018: Paper on "Tweeting MPs" accepted for publication at ICWSM 2019 (Germany)  
+
+  

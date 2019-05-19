@@ -14,11 +14,15 @@ I am enrolled with the Department of [Informatics](https://www.kcl.ac.uk/nms/dep
 To know more about me check my following pages and links (please allow me to talk in my R programming language here)-
 
 library(Pushkal) #Just Kidding!
-- [Academics](/academics.md)    <- c(Education, Publications, Projects, Teachings, Talks)
-- [Experiences](/experiences.md) <- c(Internships, Workshops, Skills, Responsibilities)
-- [Posts](posts.md)                <- c(Academics, Data Science, Dashboards)
-- Connect            <- c(**Email**=pushkal[dot]agarwal[at]kcl[dot]ac[dot]uk), [Twitter](https://twitter.com/pushkalagarwa), [LinkedIn](https://www.linkedin.com/in/pushkal-agarwal-71535a18/))
-- Other links                   <- c([Netsys team](https://nms.kcl.ac.uk/netsys/), [Datasets](https://nms.kcl.ac.uk/netsys/))
+> [Academics](/academics.md)    <- c(Education, Publications, Projects, Teachings, Talks)
+
+> [Experiences](/experiences.md) <- c(Internships, Workshops, Skills, Responsibilities)
+
+> [Posts](posts.md)                <- c(Academics, Data Science, Dashboards)
+
+> Connect            <- c(**Email**=pushkal[dot]agarwal[at]kcl[dot]ac[dot]uk), [Twitter](https://twitter.com/pushkalagarwa), [LinkedIn](https://www.linkedin.com/in/pushkal-agarwal-71535a18/))
+
+> Other links                   <- c([Netsys team](https://nms.kcl.ac.uk/netsys/), [Datasets](https://nms.kcl.ac.uk/netsys/))
 
 ### Recent Updates
 - April 2019: I am selected for attending "Summer School Series on Methods for Computational Social Science" in Berlin.

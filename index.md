@@ -25,7 +25,12 @@ library(Pushkal) #Just Kidding!
 > Other links                   <- c([Netsys team](https://nms.kcl.ac.uk/netsys/), [Datasets](https://nms.kcl.ac.uk/netsys/))
 
 ### Recent Updates
-- April 2019: I am selected for attending "Summer School Series on Methods for Computational Social Science" in Berlin.
+
+- Sep 2019: Talk at Centre for British Politics and Government PhD Conference (KCL) on UK Party Politics and Parliament.
+
+- July 2019: Attended "Summer School Series on Methods for Computational Social Science" in Berlin. Thrilled with getting an honorable mention for mini-project and presentation.
+
+- June 2019: Presented our joint work  'Tweeting MPs: Digital Engagement between Citizens and Members of Parliament in the UK' with UK Parliament at ICWSM 2019 on conversations between UK MPs and citizens.
 
 - April 2019: I passed my MPhil to PhD viva. It is now time for the second inning of my PhD. 
 

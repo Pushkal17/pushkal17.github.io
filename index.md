@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Hello!
 subtitle: I am Pushkal Agarwal, I learn from data.
 ---
 

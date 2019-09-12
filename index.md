@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Eat, code, sleep and repeat!
 subtitle: I am Pushkal Agarwal, I learn from data.
 ---
 

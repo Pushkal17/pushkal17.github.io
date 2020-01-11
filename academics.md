@@ -24,6 +24,11 @@ title: Academics
 *	LNMIIT, Jaipur: Business Analytics (July’16-Nov’16), JAVA Lab (Jan’16-April’16), Data Structure and Algorithms (July’15-Nov’15), Physics Lab (Jan’15-April’15) and C Programming Lab (July’14-Nov’14).
 
 ### Talks {#talks}
+*	Invited talk on the analysis of Parliamentlive.tv at the R Conference organised by International Indian Statistical Association at IIT- Bombay (India), 2019
+*	Invited talk at the Centre For British Politics And Government (King’s Collge London), 2019.
+*	Mini-project presentation at the Computational Social Science summer school 2019, Berlin, Germany.
+*	Presented paper at the AAAI Conference on Web and Social Media (ICWSM) 2019. Munich, Germany. 
+*	Talk on Strengths & Challenges of Interdisciplinary Research. Royster Global Conf.2019, UNC- Chapel Hill (USA).
 *	Invited talk on Digital Citizen Engagement at the School of Politics and International Studies, University of Leeds.
 *	Invited talk on Discovery of the Content and Engagement with the Content in the Algorithmic Personalization and News Workshop at the 12th AAAI conference on web and social media (ICWSM-18) Stanford, USA. 
 *	PyData London: https://www.youtube.com/watch?v=fZIjmnzgQmw

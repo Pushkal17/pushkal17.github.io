@@ -10,8 +10,10 @@ title: Academics
 - 2011	AISSE (X):	Great Mission Public School, Ramnagar, India.	CGPA 10/10
 
 ### Publications {#publication}
--	Pushkal Agarwal, Nishanth Sastry and Edward Wood. Digital Engagement between Citizens and Members of Parliament in the UK. Accepted paper for publication and presentation at ICWSM 2019, Munich, Germany. 
+-	Pushkal Agarwal, Sagar Joglekar, Panagiotis Papadopoulos, Nishanth Sastry, and Nicolas Kourtellis. Stop tracking me Bro! Online User Tracking on Hyper-Partisan Websites. [Full paper accepted for publication at The Web Conference (WWW) 2020]
+- Pushkal Agarwal, Nishanth Sastry and Edward Wood. Digital Engagement between Citizens and Members of Parliament in the UK. In Proceedings of AAAI ICWSM 2019, Munich, Germany. 
 -	Pushkal Agarwal, Nishanth Sastry and Edward Wood. Discovery of the Content and Engagement with the Content. Extended abstract paper in APEN workshop, ICWSM 2018, Stanford, USA.
+-	Data Study Group, Alan Turing Institute. (Feb, 2019). Amnesty International: Monitoring online violence against high profile individuals. https://www.turing.ac.uk/research/publications/data-study-group-final-report-amnesty 
 -	Nirmal Kumar S, Sakthi Balan M, Pushkal Agarwal and Lokesh Todwal. On Social Synchrony in Online Social Networks. In Proceedings of ACM Web Science Conference, Troy, New York, USA, June 2017 (WebSci’17).
 -	Pushkal Agarwal, Lokesh Todwal, Nirmal Kumar S and Sakthi Balan M. Sentiment And Emotion Analysis Of Tweets Regarding Demonetisation. CSI Communication Magazine. 2017 April; Volume 41(Issue 1): Page 21-23.
 -	Pushkal Agarwal, Shubham Upadhyaya, Aditya Kesharwani and Kannan Balaji. Fused Sentiments from Social Media and its Relationship with Consumer Demand. In Proceedings of 2nd ICACIE 2017 will be published by Advances in Intelligent Systems and Computing series of Springer.

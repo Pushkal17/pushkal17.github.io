@@ -26,6 +26,11 @@ library(Pushkal) #Just Kidding!
 
 ### Recent Updates
 
+- Thrilled with our paper acceptance at The Web Conference (WWW2020, Taipei). Joint work with KCL and Telefonica Research.
+
+- Dec 2019: Invited talk on the analysis of Parliamentlive.tv at the R Conference organised by International Indian Statistical
+Association at IIT- Bombay (India).
+
 - Sep 2019: Talk at Centre for British Politics and Government PhD Conference (KCL) on UK Party Politics and Parliament.
 
 - July 2019: Attended "Summer School Series on Methods for Computational Social Science" in Berlin. Thrilled with getting an honorable mention for mini-project and presentation.

@@ -26,7 +26,9 @@ library(Pushkal) #Just Kidding!
 
 ### Recent Updates
 
-- Thrilled with our paper acceptance at The Web Conference (WWW2020, Taipei). Joint work with KCL and Telefonica Research.
+- Super excited to see that WIRED news covered our The Web Conference (WWW) 2020 paper. [Link](https://www.wired.com/story/right-left-news-site-ad-tracking/)
+
+- Thrilled with our paper acceptance at The Web Conference (WWW2020, Taipei). Joint work with KCL and Telefonica Research. [Pre-print](https://arxiv.org/abs/2002.00934)
 
 - Dec 2019: Invited talk on the analysis of Parliamentlive.tv at the R Conference organised by International Indian Statistical
 Association at IIT- Bombay (India).

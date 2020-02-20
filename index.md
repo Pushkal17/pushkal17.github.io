@@ -26,7 +26,9 @@ library(Pushkal) #Just Kidding!
 
 ### Recent Updates
 
-- Super excited to see that WIRED news covered our The Web Conference (WWW) 2020 paper. [Link](https://www.wired.com/story/right-left-news-site-ad-tracking/)
+- More coverage of our upcoming WWW 2020 paper, now on official page of King's College London [Link](https://www.kcl.ac.uk/partisan-us-news-websites-track-user-data-more-than-general-web)
+
+- Super excited to see that WIRED news covered our The Web Conference (WWW) 2020 paper. [Link](https://www.wired.com/story/right-left-news-site-ad-tracking/). 
 
 - Thrilled with our paper acceptance at The Web Conference (WWW2020, Taipei). Joint work with KCL and Telefonica Research. [Pre-print](https://arxiv.org/abs/2002.00934)
 

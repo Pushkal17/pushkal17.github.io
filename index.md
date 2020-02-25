@@ -41,10 +41,4 @@ Association at IIT- Bombay (India).
 
 - June 2019: Presented our joint work  'Tweeting MPs: Digital Engagement between Citizens and Members of Parliament in the UK' with UK Parliament at ICWSM 2019 on conversations between UK MPs and citizens.
 
-- April 2019: I passed my MPhil to PhD viva. It is now time for the second inning of my PhD. 
-
-- Dec 2018: Finished Internship with Telefonica I+D (Barcelona, Spain), Dec 2018.
-
-- Nov 2018: Paper on "Tweeting MPs" accepted for publication at ICWSM 2019 (Germany)  
-
   

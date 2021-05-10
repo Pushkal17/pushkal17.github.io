@@ -10,7 +10,7 @@ Pushkal is data science (ML/NLP) enthusiast. His industrial experience include s
 He also likes to manage events, writes his [experiences](http://pushkal17.blogspot.co.uk/), poems and plays table-tennis.
 
 ### Know more about me
-I am digitally engaged with my PhD project on "Citizen Engagement with the UK Parliament" under the lead supervision of [Dr. Nishanth Sastry](https://nishrs.github.io/) (Senior Lecturer, Dept. of Informatics, KCL), second Supervisors- Dr. Andrew Blick (Senior Lecturer, Dept. of Politics and Contemporary History, KCL) and partner organization supervisor- Edward Wood (Director, House of Commons Library).
+I am digitally engaged with my PhD project on "Citizen Engagement with the UK Parliament" under the lead supervision of [Dr. Nishanth Sastry](https://nishrs.github.io/) (Senior Lecturer, Dept. of Informatics, KCL), second supervisor Dr. Andrew Blick (Senior Lecturer, Dept. of Politics and Contemporary History, KCL) and partner organization supervisor- Edward Wood (Director, House of Commons Library).
 
 Using computational social science methods my work quantifies online political engagement (such as Twitter and Wikipedia) and their challenges (Eg. Online hate, spam, and web tracking). I am well versed
 with data crawling, machine learning (R and Python), delivering insights using dashboards and working with interdisciplinary teams.  

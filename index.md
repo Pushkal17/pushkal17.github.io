@@ -7,7 +7,7 @@ subtitle: I am Pushkal Agarwal, I learn from data.
 ### Short-bio
 Pushkal is a final year MPhil/PhD Scholar in Computer Science at [King's College London](https://www.kcl.ac.uk/nms/depts/informatics/index) (UK). His work focuses on computational social science domain with the UK Parliament on their “Digital Citizen Engagement” project. His publications include works in AAAI ICWSM, The Web Conference, ACM Hypertext and more. Full list is available at [Google Scholar](https://scholar.google.co.uk/citations?user=y3zImYMAAAAJ&hl=en).
 Pushkal is data science (ML/NLP) enthusiast. His industrial experience include secondment at the House of Commons (UK Parliament, UK), research internships at Nokia Bell Labs (Cambridge, UK) and Telefonica Research (Barcelona, Spain) as well as Data Analyst at The Nielsen Company (Hyderabad, India). His honours include a Chairman’s Gold Medal for best all-round performance in graduating class of 2017 (BTech. CSE) from LNMIIT, India.
-He also likes to manage events, writes his [experiences](http://pushkal17.blogspot.co.uk/), poems and plays table-tennis.
+He also likes to manage events, writes his [experiences](http://pushkal17.blogspot.co.uk/), [poems ](https://www.instagram.com/shayari.kii.diary/)and plays table-tennis.
 
 ### Know more about me
 I am digitally engaged with my PhD project on "Citizen Engagement with the UK Parliament" under the lead supervision of [Dr. Nishanth Sastry](https://nishrs.github.io/) (Senior Lecturer, Dept. of Informatics, KCL), second supervisor Dr. Andrew Blick (Senior Lecturer, Dept. of Politics and Contemporary History, KCL) and partner organization supervisor- Edward Wood (Director, House of Commons Library).

@@ -4,7 +4,8 @@ title: Experiences
 ---
 
 ### INDUSTRIAL EXPERIENCES {#industry}
-- Feb 2021- Till:				House of Commons (UK Parliament),	Visiting researcher	(London, UK) 
+- Aug 2021- Till: Data Scientist (Senior Executive) at Artificial Intelligence team, Cognizant (London, UK)
+- Feb 2021- June 2021:				House of Commons (UK Parliament),	Visiting researcher	(London, UK) 
 - June 2020- Aug 2020:	Nokia Bell Labs,	Research Scientist- Intern	(Cambridge, UK)
 - Sep 2018- Dec 2018:      Telefonica I+D,	Graduate Internship	(Barcelona, Spain)
 - July 2017- Aug 2017:	   Nielsen (India) Pvt. Ltd,	Executive, Data Analytics	(Hyderabad, India)
@@ -14,7 +15,7 @@ title: Experiences
 -	Specializations      : Computational Social and Network Science, Natural Language Processing, Machine Learning.
 -	Language Platform    : R, Python, Java, C, C++.
 -	Data Analytics Tools : Shiny Dashboards (RStudio), OpenWPM (Princeton University).
--	Web Technologies     : Amazon Web Services, HTML, PHP, XML.
+-	Web Technologies     : Docker, Amazon Web Services, HTML, PHP, XML.
 -	Other Tools          : Shell scripting, LaTeX, Matlab, GIT, Putty (HPC), JSOM(Maps).
 -	Collaboratives       : HackMD, Asana, DokuWiki.
 

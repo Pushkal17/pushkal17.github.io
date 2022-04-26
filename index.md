@@ -5,7 +5,7 @@ subtitle: I am Pushkal Agarwal, I learn from data.
 ---
 
 ### Short-bio
-Pushkal is a final year MPhil/PhD Scholar in Computer Science at [King's College London](https://www.kcl.ac.uk/nms/depts/informatics/index) (UK). His work focuses on computational social science domain with the UK Parliament on their “Digital Citizen Engagement” project. His publications include works in AAAI ICWSM, The Web Conference, ACM Hypertext and more. Full list is available at [Google Scholar](https://scholar.google.co.uk/citations?user=y3zImYMAAAAJ&hl=en).
+Pushkal is a an MPhil/PhD Scholar in Computer Science at [King's College London](https://www.kcl.ac.uk/nms/depts/informatics/index) (UK). His work focuses on computational social science domain with the UK Parliament on their “Digital Citizen Engagement” project. His publications include works in AAAI ICWSM, The Web Conference, ACM Hypertext and more. Full list is available at [Google Scholar](https://scholar.google.co.uk/citations?user=y3zImYMAAAAJ&hl=en).
 Pushkal is data science (ML/NLP) enthusiast. His industrial experience include secondment at the House of Commons (UK Parliament, UK), research internships at Nokia Bell Labs (Cambridge, UK) and Telefonica Research (Barcelona, Spain) as well as Data Analyst at The Nielsen Company (Hyderabad, India). His honours include a Chairman’s Gold Medal for best all-round performance in graduating class of 2017 (BTech. CSE) from LNMIIT, India.
 He also likes to manage events, writes his [experiences](http://pushkal17.blogspot.co.uk/), [poems ](https://www.instagram.com/shayari.kii.diary/)and plays table-tennis.
 
@@ -31,6 +31,7 @@ library(Pushkal) #Just Kidding!
 ### Recent Updates
 
 - For real-time updates please check my [Twitter](https://twitter.com/pk_plus_plus) page!
+- Yoohoo! I passed my PhD viva today🎓. [Check out some happy faces!](https://twitter.com/pk_plus_plus/status/1499795565349122053)
 - Selected for the [Graduate Symposium 2021: Google Research India](https://sites.google.com/view/graduatesymposium2021).
 - More coverage of our upcoming WWW 2020 paper, now on official page of King's College London [Link](https://www.kcl.ac.uk/partisan-us-news-websites-track-user-data-more-than-general-web)
 - Super excited to see that WIRED news covered our The Web Conference (WWW) 2020 paper. [Link](https://www.wired.com/story/right-left-news-site-ad-tracking/). 
